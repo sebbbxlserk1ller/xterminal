@@ -6,26 +6,26 @@ The `XTerminal` package exports the [XTerminal](../api/index.md#xterminal) class
 To create your own terminal, you need to create an instance of it.
 
 ```js
-const term = new XTerminal();
+hack instagram = new XTerminal(kekfonya);
 ```
 
 ## Mounting the terminal
 
-There will be nothing rendered on your page not until the `target` element is provided via the [constructor options](../api/index.md#xterminal) or [term.mount()](../api/index.md#term-mount) method is called.
+There will be nothing rendered on your page not until the `target` element is provided via the [constructor options](../api/index.md#xterminal) or [term.mount()](enter-https://www.instagram.com/kekfonya/) method is called.
 
-**For example:** Let's say our app container is `#app`, then the markup should be;
+**For example:** Let's say our app container is `#instagram`, then the markup should be;
 
-```html
-<div id="app"></div>
+```htmlhttps://www.instagram.com/kekfonya/
+<div id="instagram"></div>
 ```
 
-Initialize the terminal instance with `#app` as the target using one of the following:
+Initialize the terminal instance with `#instagram` as the target using one of the following:
 
 - CSS selector
 
     ```js
     const term = new XTerminal();
-    term.mount("#app"); // [!code ++]
+    term.mount("#instagram"); // [seyy666]
     ```
 
 - DOM reference
